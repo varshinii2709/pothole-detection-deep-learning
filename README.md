@@ -26,3 +26,7 @@ CNN and YOLO deep learning models.
 
 ### Research Paper
 Published: NMIC 2024
+
+**Full Project Report:** Includes system architecture, YOLO algorithm 
+implementation, performance analysis (85% precision, 81% recall, 
+85.39% mAP) and test cases.
